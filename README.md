@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FredrikGitDev
-- 👀 I’m interested in app development
+- 👋 Hi, I’m Fredrik
+- 👀 I’m interested in app development, but is still a noob
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on something, not sure yet
 - 📫 How to reach me ... ?
